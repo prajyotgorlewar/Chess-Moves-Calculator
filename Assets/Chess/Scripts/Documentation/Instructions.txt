@@ -1,0 +1,7 @@
+
+
+ChessBoardPlacementHandler.Instance.GetTile(row, column); // returns game object of given row and column.
+
+ChessBoardPlacementHandler.Instance.Highlight(row, column); // Highlights the given cell.
+
+ChessBoardPlacementHandler.Instance.ClearHighlights(row, column); // Clears all previous highlights
