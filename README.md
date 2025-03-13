@@ -21,6 +21,7 @@
 ### 1️⃣ Clone the Repository  
 ```bash
 git clone https://github.com/yourusername/Chess-Moves-Calculator.git
+```
 
 ### 2️⃣ Open the Project in Unity and run the scene "GameScene" 
 
