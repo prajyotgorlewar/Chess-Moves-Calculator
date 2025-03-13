@@ -1,6 +1,7 @@
 # ♟️ Chess Moves Calculator  
 
-![Chess Moves](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/ChessSet.jpg/800px-ChessSet.jpg)  
+![image](https://github.com/user-attachments/assets/92ad34fe-fdc4-4fb0-b488-82b94294a000)
+
 
 ## 🎮 About the Project  
 **Chess Moves Calculator** is a Unity-based chess utility that calculates and highlights valid moves for each piece on the board. The project is built using **C#** and utilizes **sprites** to render the chessboard and pieces.  
@@ -20,3 +21,6 @@
 ### 1️⃣ Clone the Repository  
 ```bash
 git clone https://github.com/yourusername/Chess-Moves-Calculator.git
+
+### 2️⃣ Open the Project in Unity and run the scene "GameScene" 
+
